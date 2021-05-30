@@ -20,6 +20,15 @@
 
     },
     {
+      "name": "GP Token",
+      "symbol": "GP",
+      "address": "0x4f56bad7188a3f153e33a9af37fc58ed3cebbfe0",
+      "chainId": 97,
+      "decimals": 9,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+
+    },
+    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0x0fab15194b0256569111cf96d8eac5ec5ae9adc5",
